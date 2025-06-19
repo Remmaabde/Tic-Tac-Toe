@@ -4,4 +4,10 @@ table,th,td{
 }
 th, td{
     padding:8px 12px;
+    text-align: center;
+}
+caption{
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-size: 1.2em;
 }
